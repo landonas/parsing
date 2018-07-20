@@ -11,3 +11,9 @@ b = np.array([[1,2,3],[4,5,6]])    # Create a rank 2 array
 print(b.shape)                     # Prints "(2, 3)"
 print(b[0, 0], b[0, 1], b[1, 0])   # Prints "1 2 4"
 print(b[0, 0], b[0, 1], b[1, 0])   # Prints "1 2 4"
+
+x = np.array([1 , 3, 6, 9])
+
+
+t = np.zeros((5,5))
+print(t)
