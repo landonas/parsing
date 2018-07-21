@@ -15,5 +15,7 @@ print(b[0, 0], b[0, 1], b[1, 0])   # Prints "1 2 4"
 x = np.array([1 , 3, 6, 9])
 
 
-t = np.zeros((5,5))
-print(t)
+t = np.zeros((5,5))                 #zeros functions returns matrix filled with zeros n*m
+
+
+print(np.eye(2))                    #eye function retuns matrix as specified 
