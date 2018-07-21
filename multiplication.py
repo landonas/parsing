@@ -11,3 +11,9 @@ RESULT:
  [ 66  81  96]
  [102 126 150]]
 '''
+print("now matrix multiplied by a 3,3 matrix of 0's using zeros function")
+x = np.zeros((3,3))
+
+result = np.dot(m,x)
+
+print(result)
