@@ -19,3 +19,5 @@ t = np.zeros((5,5))                 #zeros functions returns matrix filled with 
 
 
 print(np.eye(2))                    #eye function retuns matrix as specified 
+
+print(np.zeros((10,10)))
