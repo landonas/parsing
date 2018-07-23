@@ -21,3 +21,7 @@ t = np.zeros((5,5))                 #zeros functions returns matrix filled with 
 print(np.eye(2))                    #eye function retuns matrix as specified 
 
 print(np.zeros((10,10)))
+
+
+newArray = np.array([[1,2,3], [4,5,6] , [7,8,9]]) #rank three array
+print(newArray)
