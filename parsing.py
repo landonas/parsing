@@ -18,7 +18,7 @@ x = np.array([1 , 3, 6, 9])
 t = np.zeros((5,5))                 #zeros functions returns matrix filled with zeros n*m
 
 
-print(np.eye(2))                    #eye function retuns matrix as specified 
+print(np.eye(3))                    #eye function retuns matrix as specified 
 
 print(np.zeros((10,10)))
 
