@@ -1,5 +1,4 @@
 import numpy as np
-from textblob import TextBlob
 
 a = np.array([1, 2, 3])   # Create a rank 1 array
 print(type(a))            # Prints "<class 'numpy.ndarray'>"
