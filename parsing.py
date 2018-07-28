@@ -26,3 +26,6 @@ print(np.zeros((10,10)))
 
 newArray = np.array([[1,2,3], [4,5,6] , [7,8,9]]) #rank three array
 print(newArray)
+
+newArray = np.array([[1,2,3], [4,5,6] , [7,8,9], [10,11,12]]) #rank four array
+print(newArray)
