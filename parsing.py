@@ -21,10 +21,10 @@ t = np.zeros((5,5))                 #zeros functions returns matrix filled with 
 
 print(np.eye(3))                    #eye function retuns matrix as specified 
 
-print(np.zeros((10,10)))            
+print(np.zeros((10,10)))            #np zeros
 
 
-newArray = np.array([[1,2,3], [4,5,6] , [7,8,9]])   #rank three array
+newArray = np.array([[1,2,3], [4,5,6] , [7,8,9]])   #rank three array 
 print(newArray)
 
 newArray = np.array([[1,2,3], [4,5,6] , [7,8,9], [10,11,12]]) #rank four array
